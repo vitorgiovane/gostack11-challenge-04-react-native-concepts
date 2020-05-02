@@ -24,7 +24,7 @@
 
 <br>
 
-## :arrow_forward: Project listing preview
+## :arrow_forward: Repository listing preview
 <img alt="GoStack 11 - Vitor" src="https://res.cloudinary.com/vitorgiovane/image/upload/v1588456022/GoStack%2011/2020-05-02_18-45_s1vpec.png" />
 
 ## :rocket: Technologies
